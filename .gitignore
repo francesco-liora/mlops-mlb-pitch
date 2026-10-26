@@ -1,0 +1,22 @@
+# Environnement virtuel Python
+.venv/
+env/
+venv/
+
+# Caches et fichiers temporaires Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Chemins et notebooks de brouillon
+notebooks/
+*.ipynb_checkpoints
+
+# Variables d'environnement et secrets
+.env
+
+# Fichiers système
+.DS_Store
+Thumbs.db
